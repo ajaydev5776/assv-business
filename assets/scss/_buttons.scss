@@ -1,0 +1,18 @@
+.btn {
+    box-shadow: none !important;
+}
+
+.btn-theme1 {
+    background-color: $theme1 !important;
+    transition: all 0.3s ease-in-out;
+    &:hover{
+        background-color: darken($theme1, 10) !important;
+    }
+}
+.btn-theme2 {
+    background-color: $theme2 !important;
+    transition: all 0.3s ease-in-out;
+    &:hover{
+        background-color: darken($theme2, 10) !important;
+    }
+}
