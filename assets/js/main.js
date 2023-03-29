@@ -301,9 +301,9 @@ $(document).ready(function() {
                 slidesPerView: 1,
             },
             480: {
-                slidesPerView: 2,
+                slidesPerView: 1,
             },
-            787: {
+            768: {
                 slidesPerView: 2,
             },
             991: {

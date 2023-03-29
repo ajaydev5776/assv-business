@@ -18178,3 +18178,17 @@ footer.style-15 .foot p {
     transform: translateX(-35%);
   }
 }
+
+
+
+// *============================ Self Code =================
+@media screen and (max-width: 768px) {
+h2 {
+  font-size: 40px !important;
+}
+}
+@media screen and (max-width: 576px) {
+  h2 {
+    font-size: 30px !important;
+  }
+  }
